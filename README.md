@@ -1,6 +1,10 @@
 ### DESCRIPTION
 In this example we have setup mulitple instances of the node js service and used nginx to load balance the the node js service.
 
+<p align="center">
+  <img src="img/horizontal-vs-vertical-scaling-diagram.png"/>
+</p>
+
 ## Project Structure
 ````
 src
